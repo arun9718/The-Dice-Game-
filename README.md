@@ -1,2 +1,2 @@
 # The-Dice-Game-
-Implementations of basic DOM manipulation using Javascipt
+Implementations of basic DOM manipulation using Javascript
